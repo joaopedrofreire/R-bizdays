@@ -32,7 +32,7 @@ Collate:
     'load-buildin-calendars.R'
     'zzz.R'
 Depends:
-    R (>= 4.0.0)
+    R (>= 3.6.0)
 License: MIT + file LICENSE
 LazyData: true
 RoxygenNote: 7.2.3
